@@ -1,2 +1,6 @@
 Part 1
 Best Model File: https://buffalo.box.com/s/dbj63vrdrnrpiupxf2uj0qxa369ig40j
+
+Part 2
+Base Model: https://buffalo.box.com/s/xp2krxx6d6z3gkpfh72di6bp5dvoci0o
+Best Model: https://buffalo.box.com/s/r5pal4yrpbqd0gfqr7j8oir0vv316d5h
