@@ -6,7 +6,7 @@ Base Model: https://buffalo.box.com/s/xp2krxx6d6z3gkpfh72di6bp5dvoci0o
 Best Model: https://buffalo.box.com/s/r5pal4yrpbqd0gfqr7j8oir0vv316d5h
 
 Part 3:
-Best Model: Batchnorm: https://buffalo.box.com/s/a19r84hkowgkcqb4bjocfv6aft5r1tzt
+Best Model: K-Fold: https://buffalo.box.com/s/wutrge66oa8a7bd8gsk90mezwd1xnst5
 
 Part 4:
 Best VGG13 Model: https://buffalo.box.com/s/f7hnc9x7peigy7fj94eq1g2ja2v7720a
